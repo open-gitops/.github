@@ -2,7 +2,7 @@
 
 <!-- markdownlint-disable MD033 -->
 <p><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/opengitops/icon/color/opengitops-icon-color.svg" alt="OpenGitOps logo icon color" width="150" valign="middle">
-<img src="https://openmoji.org/data/color/svg/1F481.svg" alt="Person Tipping Hand Unicode 1F481. OpenMoji CC BY-SA 4.0" width="150" valign="middle"></p>
+<img src="https://openmoji.org/data/color/svg/1F919.svg" alt="Call Me Hand Unicode 1F919. OpenMoji CC BY-SA 4.0" width="150" valign="middle"></p>
 
 The success and happiness of all users is essential to the OpenGitOps community.
 
