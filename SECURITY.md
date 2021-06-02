@@ -25,7 +25,7 @@ Please do not report vulnerabily details for other projects to the OpenGitOps ma
 | Name | GitHub | Key URL | Fingerprint |
 | -- | -- | -- | -- |
 | Scott Rigby | [@scottrigby](https://github.com/scottrigby) | <https://keybase.io/r6by/pgp_keys.asc> | 208D D36E D5BB 3745 A167 43A4 C7C6 FBB5 B91C 1155 |
-
+| Dan Garfield | [@todaywasawesome](https://github.com/todaywasawesome) | <https://keybase.io/dangarfield/pgp_keys.asc> | EDD6 6C22 E665 61FE |
 ## Handling
 
 - All reports will be thoroughly investigated by the OpenGitOps maintainers.
