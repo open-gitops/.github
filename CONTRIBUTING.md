@@ -14,7 +14,22 @@ Not all contributions are code.
 ## 💬 Discuss
 
 - Contribute to [OpenGitOps Discussions](https://github.com/open-gitops/project/discussions), including [“How do you use GitOps?”](https://github.com/open-gitops/project/discussions/25)
-- Participate in GitHub Working Group [in-person meetings, Slack, public email list, and social media](https://github.com/cncf/tag-app-delivery/tree/master/gitops-wg#community)
+- Slack: `#opengitops` in [CNCF workspace](https://slack.cncf.io/)
+- Attend an [OpenGitOps project meeting](#meetings)
+- Volunteer: <https://github.com/open-gitops/project/blob/main/TEAMS.md>. Help with projects according to your interest and ability
+- GitOps Subreddit: <https://www.reddit.com/r/GitOps/>
+- Twitter: <https://twitter.com/opengitops>
+- Express your interest: [interested-parties.md](https://github.com/open-gitops/project/blob/main/interested-parties.md)
+- Follow OpenGitOps: <https://github.com/open-gitops/project>
+
+## Meetings
+
+- 🗓 1st & 3rd Wednesdays at [19:00 GMT](https://greenwichmeantime.com/time-gadgets/time-zone-converter/)
+- 👩‍💻 Join using [this Zoom link](https://zoom.us/j/93779536510?pwd=TEFzbGRzREI3MVlkZmluemVkMEhHdz09)
+- ✏️ See [Agenda and Notes](https://docs.google.com/document/d/1hxifmCdOV5_FbKloDJRWZQHq0ge-trXJKF-BgV4wHVk/) for next and and all previous meetings
+- 💡 Hint: use the [document outline](https://support.google.com/docs/answer/6367684) to help navigate to the right meeting!
+- 📼 Browse the [YouTube playlists](https://www.youtube.com/channel/UCI6iqYuuI4gZuOCZaks5i1g/playlists) for recordings of all previous meetings
+- 📧 Additional team meetings may be scheduled as needed
 
 ## ✍️ Pull
 
